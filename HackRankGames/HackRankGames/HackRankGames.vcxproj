@@ -81,6 +81,7 @@
   <ItemGroup>
     <ClInclude Include="Domains\DynammicProgramming.hpp" />
     <ClInclude Include="Domains\GraphTheory.hpp" />
+    <ClInclude Include="Domains\Implementation.hpp" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
